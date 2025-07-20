@@ -105,20 +105,6 @@ JOIN Seats s ON b.seat_id = s.seat_id;
 
 ---
 
-## 📌 How to Run
 
-1. Create a new database in MySQL
-2. Execute the SQL schema and data insert scripts
-3. Run the sample queries to test the system
 
----
 
-## 📞 Contact
-
-For any queries or collaboration requests:  
-📧 **your-email@example.com**  
-📂 GitHub: [your-profile-link]
-
----
-
-> © 2025 Flight Booking System – SQL Project | Educational Use Only
